@@ -17,6 +17,25 @@ The project is composed by two Android applications and an Express.js Web Server
 
 ## Android Applications
 
+<table>
+ <tbody>
+  <tr>
+   <td>
+<img src="https://i.imgur.com/aoIJrH5.png" alt="Login" width="150"/>
+   </td>
+   <td>
+<img src="https://i.imgur.com/Pf8l6A6.png" alt="Store" width="150"/>
+   </td>
+   <td>
+<img src="https://i.imgur.com/5BmRfVs.png" alt="Checkout" width="150"/>
+   </td>
+   <td>
+<img src="https://i.imgur.com/M46yVEi.png" alt="Pending Order" width="150"/>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
 The Android apps were built with **Kotlin** using the **Android Jetpack** libraries.
 
 #### Clients application features: 
